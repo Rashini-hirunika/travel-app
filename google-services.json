@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1086801370157",
+    "project_id": "serendib-12490",
+    "storage_bucket": "serendib-12490.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1086801370157:android:39db50fc2855f8f47feca4",
+        "android_client_info": {
+          "package_name": "com.rashini.travelguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1086801370157-3g9i4h79rup0ob5l5pfi87r4oitqdfpb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxkCXZcWTk5VDHJCv_yh_WrU_3aIxAVBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1086801370157-3g9i4h79rup0ob5l5pfi87r4oitqdfpb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
